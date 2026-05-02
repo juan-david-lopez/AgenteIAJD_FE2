@@ -179,5 +179,8 @@ def chat():
     return jsonify({"respuesta": respuesta})
 
 
+# Exportar app para Vercel
+app_vercel = app
+
 if __name__ == "__main__":
     app.run(debug=True)
