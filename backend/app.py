@@ -180,7 +180,8 @@ def chat():
 
 
 # Exportar app para Vercel
-app_vercel = app
+# Vercel espera una variable llamada 'app' en el módulo principal
+app = app
 
 if __name__ == "__main__":
     app.run(debug=True)
