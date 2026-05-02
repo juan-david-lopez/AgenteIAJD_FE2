@@ -1,0 +1,1001 @@
+titulo,genero,duracion,tono,anio,calificacion
+The Shawshank Redemption,Drama,larga,serio,1994,9.3
+The Godfather,"Crime, Drama",larga,serio,1972,9.2
+The Dark Knight,"Action, Crime, Drama",larga,serio,2008,9.0
+The Godfather: Part II,"Crime, Drama",larga,serio,1974,9.0
+12 Angry Men,"Crime, Drama",media,serio,1957,9.0
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",larga,serio,2003,8.9
+Pulp Fiction,"Crime, Drama",larga,serio,1994,8.9
+Schindler's List,"Biography, Drama, History",larga,serio,1993,8.9
+Inception,"Action, Adventure, Sci-Fi",larga,emocionante,2010,8.8
+Fight Club,Drama,larga,serio,1999,8.8
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",larga,serio,2001,8.8
+Forrest Gump,"Drama, Romance",larga,serio,1994,8.8
+"Il buono, il brutto, il cattivo",Western,larga,neutral,1966,8.8
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",larga,serio,2002,8.7
+The Matrix,"Action, Sci-Fi",larga,emocionante,1999,8.7
+Goodfellas,"Biography, Crime, Drama",larga,serio,1990,8.7
+Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",larga,emocionante,1980,8.7
+One Flew Over the Cuckoo's Nest,Drama,larga,serio,1975,8.7
+Hamilton,"Biography, Drama, History",larga,serio,2020,8.6
+Gisaengchung,"Comedy, Drama, Thriller",larga,divertido,2019,8.6
+Soorarai Pottru,Drama,larga,serio,2020,8.6
+Interstellar,"Adventure, Drama, Sci-Fi",larga,serio,2014,8.6
+Cidade de Deus,"Crime, Drama",larga,serio,2002,8.6
+Sen to Chihiro no kamikakushi,"Animation, Adventure, Family",larga,neutral,2001,8.6
+Saving Private Ryan,"Drama, War",larga,serio,1998,8.6
+The Green Mile,"Crime, Drama, Fantasy",larga,serio,1999,8.6
+La vita è bella,"Comedy, Drama, Romance",media,divertido,1997,8.6
+Se7en,"Crime, Drama, Mystery",larga,serio,1995,8.6
+The Silence of the Lambs,"Crime, Drama, Thriller",media,serio,1991,8.6
+Star Wars,"Action, Adventure, Fantasy",larga,emocionante,1977,8.6
+Seppuku,"Action, Drama, Mystery",larga,serio,1962,8.6
+Shichinin no samurai,"Action, Adventure, Drama",larga,serio,1954,8.6
+It's a Wonderful Life,"Drama, Family, Fantasy",larga,serio,1946,8.6
+Joker,"Crime, Drama, Thriller",larga,serio,2019,8.5
+Whiplash,"Drama, Music",media,serio,2014,8.5
+The Intouchables,"Biography, Comedy, Drama",media,divertido,2011,8.5
+The Prestige,"Drama, Mystery, Sci-Fi",larga,serio,2006,8.5
+The Departed,"Crime, Drama, Thriller",larga,serio,2006,8.5
+The Pianist,"Biography, Drama, Music",larga,serio,2002,8.5
+Gladiator,"Action, Adventure, Drama",larga,serio,2000,8.5
+American History X,Drama,media,serio,1998,8.5
+The Usual Suspects,"Crime, Mystery, Thriller",media,neutral,1995,8.5
+Léon,"Action, Crime, Drama",media,serio,1994,8.5
+The Lion King,"Animation, Adventure, Drama",corta,serio,1994,8.5
+Terminator 2: Judgment Day,"Action, Sci-Fi",larga,emocionante,1991,8.5
+Nuovo Cinema Paradiso,"Drama, Romance",larga,serio,1988,8.5
+Hotaru no haka,"Animation, Drama, War",corta,serio,1988,8.5
+Back to the Future,"Adventure, Comedy, Sci-Fi",media,divertido,1985,8.5
+Once Upon a Time in the West,Western,larga,neutral,1968,8.5
+Psycho,"Horror, Mystery, Thriller",media,oscuro,1960,8.5
+Casablanca,"Drama, Romance, War",media,serio,1942,8.5
+Modern Times,"Comedy, Drama, Family",corta,divertido,1936,8.5
+City Lights,"Comedy, Drama, Romance",corta,divertido,1931,8.5
+Capharnaüm,Drama,larga,serio,2018,8.4
+Ayla: The Daughter of War,"Biography, Drama, History",larga,serio,2017,8.4
+Vikram Vedha,"Action, Crime, Drama",larga,serio,2017,8.4
+Kimi no na wa.,"Animation, Drama, Fantasy",media,serio,2016,8.4
+Dangal,"Action, Biography, Drama",larga,serio,2016,8.4
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",media,emocionante,2018,8.4
+Avengers: Endgame,"Action, Adventure, Drama",larga,serio,2019,8.4
+Avengers: Infinity War,"Action, Adventure, Sci-Fi",larga,emocionante,2018,8.4
+Coco,"Animation, Adventure, Family",media,neutral,2017,8.4
+Django Unchained,"Drama, Western",larga,serio,2012,8.4
+The Dark Knight Rises,"Action, Adventure",larga,emocionante,2012,8.4
+3 Idiots,"Comedy, Drama",larga,divertido,2009,8.4
+Taare Zameen Par,"Drama, Family",larga,serio,2007,8.4
+WALL·E,"Animation, Adventure, Family",media,neutral,2008,8.4
+The Lives of Others,"Drama, Mystery, Thriller",larga,serio,2006,8.4
+Oldeuboi,"Action, Drama, Mystery",media,serio,2003,8.4
+Memento,"Mystery, Thriller",media,neutral,2000,8.4
+Mononoke-hime,"Animation, Action, Adventure",larga,emocionante,1997,8.4
+Once Upon a Time in America,"Crime, Drama",larga,serio,1984,8.4
+Raiders of the Lost Ark,"Action, Adventure",media,emocionante,1981,8.4
+The Shining,"Drama, Horror",larga,serio,1980,8.4
+Apocalypse Now,"Drama, Mystery, War",larga,serio,1979,8.4
+Alien,"Horror, Sci-Fi",media,oscuro,1979,8.4
+Anand,"Drama, Musical",larga,serio,1971,8.4
+Tengoku to jigoku,"Crime, Drama, Mystery",larga,serio,1963,8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy,media,divertido,1964,8.4
+Witness for the Prosecution,"Crime, Drama, Mystery",media,serio,1957,8.4
+Paths of Glory,"Drama, War",corta,serio,1957,8.4
+Rear Window,"Mystery, Thriller",media,neutral,1954,8.4
+Sunset Blvd.,"Drama, Film-Noir",media,serio,1950,8.4
+The Great Dictator,"Comedy, Drama, War",larga,divertido,1940,8.4
+1917,"Drama, Thriller, War",media,serio,2019,8.3
+Tumbbad,"Drama, Fantasy, Horror",media,serio,2018,8.3
+Andhadhun,"Crime, Drama, Music",larga,serio,2018,8.3
+Drishyam,"Crime, Drama, Thriller",larga,serio,2013,8.3
+Jagten,Drama,media,serio,2012,8.3
+Jodaeiye Nader az Simin,Drama,larga,serio,2011,8.3
+Incendies,"Drama, Mystery, War",larga,serio,2010,8.3
+Miracle in cell NO.7,Drama,larga,serio,2019,8.3
+Babam ve Oglum,"Drama, Family",media,serio,2005,8.3
+Inglourious Basterds,"Adventure, Drama, War",larga,serio,2009,8.3
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",media,serio,2004,8.3
+Amélie,"Comedy, Romance",larga,divertido,2001,8.3
+Snatch,"Comedy, Crime",media,divertido,2000,8.3
+Requiem for a Dream,Drama,media,serio,2000,8.3
+American Beauty,Drama,larga,serio,1999,8.3
+Good Will Hunting,"Drama, Romance",larga,serio,1997,8.3
+Bacheha-Ye aseman,"Drama, Family, Sport",corta,serio,1997,8.3
+Toy Story,"Animation, Adventure, Comedy",corta,divertido,1995,8.3
+Braveheart,"Biography, Drama, History",larga,serio,1995,8.3
+Reservoir Dogs,"Crime, Drama, Thriller",media,serio,1992,8.3
+Full Metal Jacket,"Drama, War",media,serio,1987,8.3
+Idi i smotri,"Drama, Thriller, War",larga,serio,1985,8.3
+Aliens,"Action, Adventure, Sci-Fi",larga,emocionante,1986,8.3
+Amadeus,"Biography, Drama, History",larga,serio,1984,8.3
+Scarface,"Crime, Drama",larga,serio,1983,8.3
+Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",larga,emocionante,1983,8.3
+Das Boot,"Adventure, Drama, Thriller",larga,serio,1981,8.3
+Taxi Driver,"Crime, Drama",media,serio,1976,8.3
+The Sting,"Comedy, Crime, Drama",larga,divertido,1973,8.3
+A Clockwork Orange,"Crime, Drama, Sci-Fi",larga,serio,1971,8.3
+2001: A Space Odyssey,"Adventure, Sci-Fi",larga,neutral,1968,8.3
+Per qualche dollaro in più,Western,larga,neutral,1965,8.3
+Lawrence of Arabia,"Adventure, Biography, Drama",larga,serio,1962,8.3
+The Apartment,"Comedy, Drama, Romance",larga,divertido,1960,8.3
+North by Northwest,"Adventure, Mystery, Thriller",larga,neutral,1959,8.3
+Vertigo,"Mystery, Romance, Thriller",larga,neutral,1958,8.3
+Singin' in the Rain,"Comedy, Musical, Romance",media,divertido,1952,8.3
+Ikiru,Drama,larga,serio,1952,8.3
+Ladri di biciclette,Drama,corta,serio,1948,8.3
+Double Indemnity,"Crime, Drama, Film-Noir",media,serio,1944,8.3
+Citizen Kane,"Drama, Mystery",media,serio,1941,8.3
+M - Eine Stadt sucht einen Mörder,"Crime, Mystery, Thriller",media,neutral,1931,8.3
+Metropolis,"Drama, Sci-Fi",larga,serio,1927,8.3
+The Kid,"Comedy, Drama, Family",corta,divertido,1921,8.3
+Chhichhore,"Comedy, Drama",larga,divertido,2019,8.2
+Uri: The Surgical Strike,"Action, Drama, War",larga,serio,2018,8.2
+K.G.F: Chapter 1,"Action, Drama",larga,serio,2018,8.2
+Green Book,"Biography, Comedy, Drama",larga,divertido,2018,8.2
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",media,divertido,2017,8.2
+Talvar,"Crime, Drama, Mystery",larga,serio,2015,8.2
+Baahubali 2: The Conclusion,"Action, Drama",larga,serio,2017,8.2
+Klaus,"Animation, Adventure, Comedy",media,divertido,2019,8.2
+Drishyam,"Crime, Drama, Mystery",larga,serio,2015,8.2
+Queen,"Adventure, Comedy, Drama",larga,divertido,2013,8.2
+Mandariinid,"Drama, War",corta,serio,2013,8.2
+Bhaag Milkha Bhaag,"Biography, Drama, Sport",larga,serio,2013,8.2
+Gangs of Wasseypur,"Action, Comedy, Crime",larga,divertido,2012,8.2
+Udaan,Drama,larga,serio,2010,8.2
+Paan Singh Tomar,"Action, Biography, Crime",larga,emocionante,2012,8.2
+El secreto de sus ojos,"Drama, Mystery, Romance",larga,serio,2009,8.2
+Warrior,"Action, Drama, Sport",larga,serio,2011,8.2
+Shutter Island,"Mystery, Thriller",larga,neutral,2010,8.2
+Up,"Animation, Adventure, Comedy",media,divertido,2009,8.2
+The Wolf of Wall Street,"Biography, Crime, Drama",larga,serio,2013,8.2
+Chak De! India,"Drama, Family, Sport",larga,serio,2007,8.2
+There Will Be Blood,Drama,larga,serio,2007,8.2
+Pan's Labyrinth,"Drama, Fantasy, War",media,serio,2006,8.2
+Toy Story 3,"Animation, Adventure, Comedy",media,divertido,2010,8.2
+V for Vendetta,"Action, Drama, Sci-Fi",larga,serio,2005,8.2
+Rang De Basanti,"Comedy, Crime, Drama",larga,divertido,2006,8.2
+Black,Drama,larga,serio,2005,8.2
+Batman Begins,"Action, Adventure",larga,emocionante,2005,8.2
+"Swades: We, the People",Drama,larga,serio,2004,8.2
+Der Untergang,"Biography, Drama, History",larga,serio,2004,8.2
+Hauru no ugoku shiro,"Animation, Adventure, Family",media,neutral,2004,8.2
+A Beautiful Mind,"Biography, Drama",larga,serio,2001,8.2
+Hera Pheri,"Action, Comedy, Crime",larga,divertido,2000,8.2
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime",media,divertido,1998,8.2
+L.A. Confidential,"Crime, Drama, Mystery",larga,serio,1997,8.2
+Eskiya,"Crime, Drama, Thriller",larga,serio,1996,8.2
+Heat,"Crime, Drama, Thriller",larga,serio,1995,8.2
+Casino,"Crime, Drama",larga,serio,1995,8.2
+Andaz Apna Apna,"Action, Comedy, Romance",larga,divertido,1994,8.2
+Unforgiven,"Drama, Western",larga,serio,1992,8.2
+Indiana Jones and the Last Crusade,"Action, Adventure",larga,emocionante,1989,8.2
+Dom za vesanje,"Comedy, Crime, Drama",larga,divertido,1988,8.2
+Tonari no Totoro,"Animation, Family, Fantasy",corta,neutral,1988,8.2
+Die Hard,"Action, Thriller",larga,emocionante,1988,8.2
+Ran,"Action, Drama, War",larga,serio,1985,8.2
+Raging Bull,"Biography, Drama, Sport",larga,serio,1980,8.2
+Stalker,"Drama, Sci-Fi",larga,serio,1979,8.2
+Höstsonaten,"Drama, Music",media,serio,1978,8.2
+The Message,"Biography, Drama, History",larga,serio,1976,8.2
+Sholay,"Action, Adventure, Comedy",larga,divertido,1975,8.2
+Monty Python and the Holy Grail,"Adventure, Comedy, Fantasy",media,divertido,1975,8.2
+The Great Escape,"Adventure, Drama, History",larga,serio,1963,8.2
+To Kill a Mockingbird,"Crime, Drama",larga,serio,1962,8.2
+Yôjinbô,"Action, Drama, Thriller",media,serio,1961,8.2
+Judgment at Nuremberg,"Drama, War",larga,serio,1961,8.2
+Some Like It Hot,"Comedy, Music, Romance",larga,divertido,1959,8.2
+Smultronstället,"Drama, Romance",media,serio,1957,8.2
+Det sjunde inseglet,"Drama, Fantasy, History",media,serio,1957,8.2
+Du rififi chez les hommes,"Crime, Drama, Thriller",media,serio,1955,8.2
+Dial M for Murder,"Crime, Thriller",media,neutral,1954,8.2
+Tôkyô monogatari,Drama,larga,serio,1953,8.2
+Rashômon,"Crime, Drama, Mystery",corta,serio,1950,8.2
+All About Eve,Drama,larga,serio,1950,8.2
+The Treasure of the Sierra Madre,"Adventure, Drama, Western",larga,serio,1948,8.2
+To Be or Not to Be,"Comedy, War",media,divertido,1942,8.2
+The Gold Rush,"Adventure, Comedy, Drama",media,divertido,1925,8.2
+Sherlock Jr.,"Action, Comedy, Romance",corta,divertido,1924,8.2
+Portrait de la jeune fille en feu,"Drama, Romance",larga,serio,2019,8.1
+Pink,"Drama, Thriller",larga,serio,2016,8.1
+Koe no katachi,"Animation, Drama, Family",larga,serio,2016,8.1
+Contratiempo,"Crime, Drama, Mystery",media,serio,2016,8.1
+Ah-ga-ssi,"Drama, Romance, Thriller",larga,serio,2016,8.1
+Mommy,Drama,larga,serio,2014,8.1
+Haider,"Action, Crime, Drama",larga,serio,2014,8.1
+Logan,"Action, Drama, Sci-Fi",larga,serio,2017,8.1
+Room,"Drama, Thriller",media,serio,2015,8.1
+Relatos salvajes,"Comedy, Drama, Thriller",larga,divertido,2014,8.1
+Soul,"Animation, Adventure, Comedy",media,divertido,2020,8.1
+Kis Uykusu,Drama,larga,serio,2014,8.1
+PK,"Comedy, Drama, Musical",larga,divertido,2014,8.1
+OMG: Oh My God!,"Comedy, Drama, Fantasy",larga,divertido,2012,8.1
+The Grand Budapest Hotel,"Adventure, Comedy, Crime",media,divertido,2014,8.1
+Gone Girl,"Drama, Mystery, Thriller",larga,serio,2014,8.1
+Ôkami kodomo no Ame to Yuki,"Animation, Drama, Fantasy",media,serio,2012,8.1
+Hacksaw Ridge,"Biography, Drama, History",larga,serio,2016,8.1
+Inside Out,"Animation, Adventure, Comedy",media,divertido,2015,8.1
+Barfi!,"Comedy, Drama, Romance",larga,divertido,2012,8.1
+12 Years a Slave,"Biography, Drama, History",larga,serio,2013,8.1
+Rush,"Action, Biography, Drama",larga,serio,2013,8.1
+Ford v Ferrari,"Action, Biography, Drama",larga,serio,2019,8.1
+Spotlight,"Biography, Crime, Drama",larga,serio,2015,8.1
+Song of the Sea,"Animation, Adventure, Drama",media,serio,2014,8.1
+Kahaani,"Mystery, Thriller",larga,neutral,2012,8.1
+Zindagi Na Milegi Dobara,"Comedy, Drama",larga,divertido,2011,8.1
+Prisoners,"Crime, Drama, Mystery",larga,serio,2013,8.1
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi",media,emocionante,2015,8.1
+A Wednesday,"Action, Crime, Drama",media,serio,2008,8.1
+Gran Torino,Drama,media,serio,2008,8.1
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy",larga,serio,2011,8.1
+Okuribito,"Drama, Music",larga,serio,2008,8.1
+Hachi: A Dog's Tale,"Biography, Drama, Family",media,serio,2009,8.1
+Mary and Max,"Animation, Comedy, Drama",media,divertido,2009,8.1
+How to Train Your Dragon,"Animation, Action, Adventure",media,emocionante,2010,8.1
+Into the Wild,"Adventure, Biography, Drama",larga,serio,2007,8.1
+No Country for Old Men,"Crime, Drama, Thriller",larga,serio,2007,8.1
+Lage Raho Munna Bhai,"Comedy, Drama, Romance",larga,divertido,2006,8.1
+Million Dollar Baby,"Drama, Sport",larga,serio,2004,8.1
+Hotel Rwanda,"Biography, Drama, History",larga,serio,2004,8.1
+Taegukgi hwinalrimyeo,"Action, Drama, War",larga,serio,2004,8.1
+Before Sunset,"Drama, Romance",corta,serio,2004,8.1
+Munna Bhai M.B.B.S.,"Comedy, Drama, Musical",larga,divertido,2003,8.1
+Salinui chueok,"Crime, Drama, Mystery",larga,serio,2003,8.1
+Dil Chahta Hai,"Comedy, Drama, Romance",larga,divertido,2001,8.1
+Kill Bill: Vol. 1,"Action, Crime, Drama",media,serio,2003,8.1
+Finding Nemo,"Animation, Adventure, Comedy",media,divertido,2003,8.1
+Catch Me If You Can,"Biography, Crime, Drama",larga,serio,2002,8.1
+Amores perros,"Drama, Thriller",larga,serio,2000,8.1
+"Monsters, Inc.","Animation, Adventure, Comedy",media,divertido,2001,8.1
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Animation, Action, Drama",corta,serio,1997,8.1
+Lagaan: Once Upon a Time in India,"Adventure, Drama, Musical",larga,serio,2001,8.1
+The Sixth Sense,"Drama, Mystery, Thriller",media,serio,1999,8.1
+La leggenda del pianista sull'oceano,"Drama, Music, Romance",larga,serio,1998,8.1
+The Truman Show,"Comedy, Drama",media,divertido,1998,8.1
+"Crna macka, beli macor","Comedy, Crime, Romance",larga,divertido,1998,8.1
+The Big Lebowski,"Comedy, Crime, Sport",media,divertido,1998,8.1
+Fa yeung nin wah,"Drama, Romance",media,serio,2000,8.1
+Trainspotting,Drama,media,serio,1996,8.1
+Fargo,"Crime, Drama, Thriller",media,serio,1996,8.1
+Underground,"Comedy, Drama, War",larga,divertido,1995,8.1
+La haine,"Crime, Drama",media,serio,1995,8.1
+Dilwale Dulhania Le Jayenge,"Drama, Romance",larga,serio,1995,8.1
+Before Sunrise,"Drama, Romance",media,serio,1995,8.1
+Trois couleurs: Rouge,"Drama, Mystery, Romance",media,serio,1994,8.1
+Chung Hing sam lam,"Comedy, Crime, Drama",media,divertido,1994,8.1
+Jurassic Park,"Action, Adventure, Sci-Fi",larga,emocionante,1993,8.1
+In the Name of the Father,"Biography, Crime, Drama",larga,serio,1993,8.1
+Ba wang bie ji,"Drama, Music, Romance",larga,serio,1993,8.1
+Dà hóng denglong gaogao guà,"Drama, History, Romance",larga,serio,1991,8.1
+Dead Poets Society,"Comedy, Drama",larga,divertido,1989,8.1
+Stand by Me,"Adventure, Drama",corta,serio,1986,8.1
+Platoon,"Drama, War",media,serio,1986,8.1
+"Paris, Texas",Drama,larga,serio,1984,8.1
+Kaze no tani no Naushika,"Animation, Adventure, Fantasy",media,neutral,1984,8.1
+The Thing,"Horror, Mystery, Sci-Fi",media,oscuro,1982,8.1
+Pink Floyd: The Wall,"Drama, Fantasy, Music",media,serio,1982,8.1
+Fitzcarraldo,"Adventure, Drama",larga,serio,1982,8.1
+Fanny och Alexander,Drama,larga,serio,1982,8.1
+Blade Runner,"Action, Sci-Fi, Thriller",media,emocionante,1982,8.1
+The Elephant Man,"Biography, Drama",larga,serio,1980,8.1
+Life of Brian,Comedy,media,divertido,1979,8.1
+The Deer Hunter,"Drama, War",larga,serio,1978,8.1
+Rocky,"Drama, Sport",media,serio,1976,8.1
+Network,Drama,larga,serio,1976,8.1
+Barry Lyndon,"Adventure, Drama, History",larga,serio,1975,8.1
+Zerkalo,"Biography, Drama",media,serio,1975,8.1
+Chinatown,"Drama, Mystery, Thriller",larga,serio,1974,8.1
+Paper Moon,"Comedy, Crime, Drama",media,divertido,1973,8.1
+Viskningar och rop,Drama,media,serio,1972,8.1
+Solaris,"Drama, Mystery, Sci-Fi",larga,serio,1972,8.1
+Le samouraï,"Crime, Drama, Mystery",media,serio,1967,8.1
+Cool Hand Luke,"Crime, Drama",larga,serio,1967,8.1
+Persona,"Drama, Thriller",corta,serio,1966,8.1
+Andrei Rublev,"Biography, Drama, History",larga,serio,1966,8.1
+La battaglia di Algeri,"Drama, War",larga,serio,1966,8.1
+El ángel exterminador,"Drama, Fantasy",media,serio,1962,8.1
+What Ever Happened to Baby Jane?,"Drama, Horror, Thriller",larga,serio,1962,8.1
+Sanjuro,"Action, Comedy, Crime",media,divertido,1962,8.1
+The Man Who Shot Liberty Valance,"Drama, Western",larga,serio,1962,8.1
+Ivanovo detstvo,"Drama, War",media,serio,1962,8.1
+Jungfrukällan,Drama,corta,serio,1960,8.1
+Inherit the Wind,"Biography, Drama, History",larga,serio,1960,8.1
+Les quatre cents coups,"Crime, Drama",media,serio,1959,8.1
+Ben-Hur,"Adventure, Drama, History",larga,serio,1959,8.1
+Kakushi-toride no san-akunin,"Adventure, Drama",larga,serio,1958,8.1
+Le notti di Cabiria,Drama,media,serio,1957,8.1
+Kumonosu-jô,"Drama, History",media,serio,1957,8.1
+The Bridge on the River Kwai,"Adventure, Drama, War",larga,serio,1957,8.1
+On the Waterfront,"Crime, Drama, Thriller",media,serio,1954,8.1
+Le salaire de la peur,"Adventure, Drama, Thriller",larga,serio,1953,8.1
+Ace in the Hole,"Drama, Film-Noir",media,serio,1951,8.1
+White Heat,"Action, Crime, Drama",media,serio,1949,8.1
+The Third Man,"Film-Noir, Mystery, Thriller",media,neutral,1949,8.1
+The Red Shoes,"Drama, Music, Romance",larga,serio,1948,8.1
+The Shop Around the Corner,"Comedy, Drama, Romance",media,divertido,1940,8.1
+Rebecca,"Drama, Mystery, Romance",larga,serio,1940,8.1
+Mr. Smith Goes to Washington,"Comedy, Drama",larga,divertido,1939,8.1
+Gone with the Wind,"Drama, History, Romance",larga,serio,1939,8.1
+La Grande Illusion,"Drama, War",media,serio,1937,8.1
+It Happened One Night,"Comedy, Romance",media,divertido,1934,8.1
+La passion de Jeanne d'Arc,"Biography, Drama, History",media,serio,1928,8.1
+The Circus,"Comedy, Romance",corta,divertido,1928,8.1
+Sunrise: A Song of Two Humans,"Drama, Romance",media,serio,1927,8.1
+The General,"Action, Adventure, Comedy",corta,divertido,1926,8.1
+Das Cabinet des Dr. Caligari,"Fantasy, Horror, Mystery",corta,oscuro,1920,8.1
+Badhaai ho,"Comedy, Drama",larga,divertido,2018,8.0
+Togo,"Adventure, Biography, Drama",media,serio,2019,8.0
+Airlift,"Drama, History",larga,serio,2016,8.0
+Bajrangi Bhaijaan,"Action, Adventure, Comedy",larga,divertido,2015,8.0
+Baby,"Action, Crime, Thriller",larga,emocionante,2015,8.0
+La La Land,"Comedy, Drama, Music",larga,divertido,2016,8.0
+Lion,"Biography, Drama",media,serio,2016,8.0
+The Martian,"Adventure, Drama, Sci-Fi",larga,serio,2015,8.0
+Zootopia,"Animation, Adventure, Comedy",media,divertido,2016,8.0
+Bãhubali: The Beginning,"Action, Drama",larga,serio,2015,8.0
+Kaguyahime no monogatari,"Animation, Adventure, Drama",larga,serio,2013,8.0
+Wonder,"Drama, Family",media,serio,2017,8.0
+Gully Boy,"Drama, Music, Romance",larga,serio,2019,8.0
+Special Chabbis,"Crime, Drama, Thriller",larga,serio,2013,8.0
+Short Term 12,Drama,media,serio,2013,8.0
+Serbuan maut 2: Berandal,"Action, Crime, Thriller",larga,emocionante,2014,8.0
+The Imitation Game,"Biography, Drama, Thriller",media,serio,2014,8.0
+Guardians of the Galaxy,"Action, Adventure, Comedy",larga,divertido,2014,8.0
+Blade Runner 2049,"Action, Drama, Mystery",larga,serio,2017,8.0
+Her,"Drama, Romance, Sci-Fi",larga,serio,2013,8.0
+Bohemian Rhapsody,"Biography, Drama, Music",larga,serio,2018,8.0
+The Revenant,"Action, Adventure, Drama",larga,serio,2015,8.0
+The Perks of Being a Wallflower,"Drama, Romance",media,serio,2012,8.0
+Tropa de Elite 2: O Inimigo Agora é Outro,"Action, Crime, Drama",media,serio,2010,8.0
+The King's Speech,"Biography, Drama, History",media,serio,2010,8.0
+The Help,Drama,larga,serio,2011,8.0
+Deadpool,"Action, Adventure, Comedy",media,divertido,2016,8.0
+Darbareye Elly,"Drama, Mystery",media,serio,2009,8.0
+Dev.D,"Drama, Romance",larga,serio,2009,8.0
+Yip Man,"Action, Biography, Drama",media,serio,2008,8.0
+My Name Is Khan,Drama,larga,serio,2010,8.0
+Nefes: Vatan Sagolsun,"Action, Drama, Thriller",larga,serio,2009,8.0
+Slumdog Millionaire,"Drama, Romance",media,serio,2008,8.0
+Black Swan,"Drama, Thriller",media,serio,2010,8.0
+Tropa de Elite,"Action, Crime, Drama",media,serio,2007,8.0
+The Avengers,"Action, Adventure, Sci-Fi",larga,emocionante,2012,8.0
+Persepolis,"Animation, Biography, Drama",media,serio,2007,8.0
+Dallas Buyers Club,"Biography, Drama",media,serio,2013,8.0
+The Pursuit of Happyness,"Biography, Drama",media,serio,2006,8.0
+Blood Diamond,"Adventure, Drama, Thriller",larga,serio,2006,8.0
+The Bourne Ultimatum,"Action, Mystery, Thriller",media,emocionante,2007,8.0
+Bin-jip,"Crime, Drama, Romance",corta,serio,2004,8.0
+Sin City,"Crime, Thriller",larga,neutral,2005,8.0
+Le scaphandre et le papillon,"Biography, Drama",media,serio,2007,8.0
+G.O.R.A.,"Adventure, Comedy, Sci-Fi",larga,divertido,2004,8.0
+Ratatouille,"Animation, Adventure, Comedy",media,divertido,2007,8.0
+Casino Royale,"Action, Adventure, Thriller",larga,emocionante,2006,8.0
+Kill Bill: Vol. 2,"Action, Crime, Thriller",larga,emocionante,2004,8.0
+Vozvrashchenie,Drama,media,serio,2003,8.0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,"Drama, Romance",media,serio,2003,8.0
+Mar adentro,"Biography, Drama",larga,serio,2014,8.0
+Cinderella Man,"Biography, Drama, History",larga,serio,2005,8.0
+Kal Ho Naa Ho,"Comedy, Drama, Musical",larga,divertido,2003,8.0
+Mou gaan dou,"Action, Crime, Drama",media,serio,2002,8.0
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",larga,emocionante,2003,8.0
+Big Fish,"Adventure, Drama, Fantasy",larga,serio,2003,8.0
+The Incredibles,"Animation, Action, Adventure",media,emocionante,2004,8.0
+Yeopgijeogin geunyeo,"Comedy, Drama, Romance",larga,divertido,2001,8.0
+Dogville,"Crime, Drama",larga,serio,2003,8.0
+Vizontele,"Comedy, Drama",media,divertido,2001,8.0
+Donnie Darko,"Drama, Mystery, Sci-Fi",media,serio,2001,8.0
+Magnolia,Drama,larga,serio,1999,8.0
+Dancer in the Dark,"Crime, Drama, Musical",larga,serio,2000,8.0
+The Straight Story,"Biography, Drama",media,serio,1999,8.0
+Pâfekuto burû,"Animation, Crime, Mystery",corta,neutral,1997,8.0
+Festen,Drama,media,serio,1998,8.0
+Central do Brasil,Drama,media,serio,1998,8.0
+The Iron Giant,"Animation, Action, Adventure",corta,emocionante,1999,8.0
+Knockin' on Heaven's Door,"Action, Crime, Comedy",corta,divertido,1997,8.0
+Sling Blade,Drama,larga,serio,1996,8.0
+Secrets & Lies,"Comedy, Drama",larga,divertido,1996,8.0
+Twelve Monkeys,"Mystery, Sci-Fi, Thriller",larga,neutral,1995,8.0
+Kôkaku Kidôtai,"Animation, Action, Crime",corta,emocionante,1995,8.0
+The Nightmare Before Christmas,"Animation, Family, Fantasy",corta,neutral,1993,8.0
+Groundhog Day,"Comedy, Fantasy, Romance",media,divertido,1993,8.0
+Bound by Honor,"Crime, Drama",larga,serio,1993,8.0
+Scent of a Woman,Drama,larga,serio,1992,8.0
+Aladdin,"Animation, Adventure, Comedy",media,divertido,1992,8.0
+JFK,"Drama, History, Thriller",larga,serio,1991,8.0
+Beauty and the Beast,"Animation, Family, Fantasy",corta,neutral,1991,8.0
+Dances with Wolves,"Adventure, Drama, Western",larga,serio,1990,8.0
+Do the Right Thing,"Comedy, Drama",media,divertido,1989,8.0
+Rain Man,Drama,larga,serio,1988,8.0
+Akira,"Animation, Action, Sci-Fi",larga,emocionante,1988,8.0
+The Princess Bride,"Adventure, Family, Fantasy",media,neutral,1987,8.0
+Der Himmel über Berlin,"Drama, Fantasy, Romance",larga,serio,1987,8.0
+Au revoir les enfants,"Drama, War",media,serio,1987,8.0
+Tenkû no shiro Rapyuta,"Animation, Adventure, Drama",larga,serio,1986,8.0
+The Terminator,"Action, Sci-Fi",media,emocionante,1984,8.0
+Gandhi,"Biography, Drama, History",larga,serio,1982,8.0
+Kagemusha,"Drama, History, War",larga,serio,1980,8.0
+Being There,"Comedy, Drama",larga,divertido,1979,8.0
+Annie Hall,"Comedy, Romance",media,divertido,1977,8.0
+Jaws,"Adventure, Thriller",larga,neutral,1975,8.0
+Dog Day Afternoon,"Biography, Crime, Drama",larga,serio,1975,8.0
+Young Frankenstein,Comedy,media,divertido,1974,8.0
+Papillon,"Biography, Crime, Drama",larga,serio,1973,8.0
+The Exorcist,Horror,larga,oscuro,1973,8.0
+Sleuth,"Mystery, Thriller",larga,neutral,1972,8.0
+The Last Picture Show,"Drama, Romance",media,serio,1971,8.0
+Fiddler on the Roof,"Drama, Family, Musical",larga,serio,1971,8.0
+Il conformista,Drama,media,serio,1970,8.0
+Butch Cassidy and the Sundance Kid,"Biography, Crime, Drama",media,serio,1969,8.0
+Rosemary's Baby,"Drama, Horror",larga,serio,1968,8.0
+Planet of the Apes,"Adventure, Sci-Fi",media,neutral,1968,8.0
+The Graduate,"Comedy, Drama, Romance",media,divertido,1967,8.0
+Who's Afraid of Virginia Woolf?,Drama,larga,serio,1966,8.0
+The Sound of Music,"Biography, Drama, Family",larga,serio,1965,8.0
+Doctor Zhivago,"Drama, Romance, War",larga,serio,1965,8.0
+Per un pugno di dollari,"Action, Drama, Western",media,serio,1964,8.0
+8½,Drama,larga,serio,1963,8.0
+Vivre sa vie: Film en douze tableaux,Drama,corta,serio,1962,8.0
+The Hustler,"Drama, Sport",larga,serio,1961,8.0
+La dolce vita,"Comedy, Drama",larga,divertido,1960,8.0
+Rio Bravo,"Action, Drama, Western",larga,serio,1959,8.0
+Anatomy of a Murder,"Crime, Drama, Mystery",larga,serio,1959,8.0
+Touch of Evil,"Crime, Drama, Film-Noir",media,serio,1958,8.0
+Cat on a Hot Tin Roof,Drama,media,serio,1958,8.0
+Sweet Smell of Success,"Drama, Film-Noir",media,serio,1957,8.0
+The Killing,"Crime, Drama, Film-Noir",corta,serio,1956,8.0
+The Night of the Hunter,"Crime, Drama, Film-Noir",media,serio,1955,8.0
+La Strada,Drama,media,serio,1954,8.0
+Les diaboliques,"Crime, Drama, Horror",media,serio,1955,8.0
+Stalag 17,"Comedy, Drama, War",media,divertido,1953,8.0
+Roman Holiday,"Comedy, Romance",media,divertido,1953,8.0
+A Streetcar Named Desire,Drama,larga,serio,1951,8.0
+In a Lonely Place,"Drama, Film-Noir, Mystery",media,serio,1950,8.0
+Kind Hearts and Coronets,"Comedy, Crime",media,divertido,1949,8.0
+Rope,"Crime, Drama, Mystery",corta,serio,1948,8.0
+Out of the Past,"Crime, Drama, Film-Noir",media,serio,1947,8.0
+Brief Encounter,"Drama, Romance",corta,serio,1945,8.0
+Laura,"Drama, Film-Noir, Mystery",corta,serio,1944,8.0
+The Best Years of Our Lives,"Drama, Romance, War",larga,serio,1946,8.0
+Arsenic and Old Lace,"Comedy, Crime, Thriller",media,divertido,1942,8.0
+The Maltese Falcon,"Film-Noir, Mystery",media,neutral,1941,8.0
+The Grapes of Wrath,"Drama, History",larga,serio,1940,8.0
+The Wizard of Oz,"Adventure, Family, Fantasy",media,neutral,1939,8.0
+La règle du jeu,"Comedy, Drama",media,divertido,1939,8.0
+The Thin Man,"Comedy, Crime, Mystery",media,divertido,1934,8.0
+All Quiet on the Western Front,"Drama, War",larga,serio,1930,8.0
+Bronenosets Potemkin,"Drama, History, Thriller",corta,serio,1925,8.0
+Knives Out,"Comedy, Crime, Drama",larga,divertido,2019,7.9
+Dil Bechara,"Comedy, Drama, Romance",media,divertido,2020,7.9
+Manbiki kazoku,"Crime, Drama",larga,serio,2018,7.9
+Marriage Story,"Comedy, Drama, Romance",larga,divertido,2019,7.9
+Call Me by Your Name,"Drama, Romance",larga,serio,2017,7.9
+"I, Daniel Blake",Drama,media,serio,2016,7.9
+Isle of Dogs,"Animation, Adventure, Comedy",media,divertido,2018,7.9
+Hunt for the Wilderpeople,"Adventure, Comedy, Drama",media,divertido,2016,7.9
+Captain Fantastic,"Comedy, Drama",media,divertido,2016,7.9
+Sing Street,"Comedy, Drama, Music",media,divertido,2016,7.9
+Thor: Ragnarok,"Action, Adventure, Comedy",larga,divertido,2017,7.9
+Nightcrawler,"Crime, Drama, Thriller",media,serio,2014,7.9
+Jojo Rabbit,"Comedy, Drama, War",media,divertido,2019,7.9
+Arrival,"Drama, Sci-Fi",media,serio,2016,7.9
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",larga,emocionante,2015,7.9
+Before Midnight,"Drama, Romance",media,serio,2013,7.9
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",larga,emocionante,2014,7.9
+Bir Zamanlar Anadolu'da,"Crime, Drama",larga,serio,2011,7.9
+The Artist,"Comedy, Drama, Romance",media,divertido,2011,7.9
+Edge of Tomorrow,"Action, Adventure, Sci-Fi",media,emocionante,2014,7.9
+Amour,"Drama, Romance",larga,serio,2012,7.9
+The Irishman,"Biography, Crime, Drama",larga,serio,2019,7.9
+Un prophète,"Crime, Drama",larga,serio,2009,7.9
+Moon,"Drama, Mystery, Sci-Fi",media,serio,2009,7.9
+Låt den rätte komma in,"Crime, Drama, Fantasy",media,serio,2008,7.9
+District 9,"Action, Sci-Fi, Thriller",media,emocionante,2009,7.9
+The Wrestler,"Drama, Sport",media,serio,2008,7.9
+Jab We Met,"Comedy, Drama, Romance",larga,divertido,2007,7.9
+Boyhood,Drama,larga,serio,2014,7.9
+"4 luni, 3 saptamâni si 2 zile",Drama,media,serio,2007,7.9
+Star Trek,"Action, Adventure, Sci-Fi",larga,emocionante,2009,7.9
+In Bruges,"Comedy, Crime, Drama",media,divertido,2008,7.9
+The Man from Earth,"Drama, Fantasy, Mystery",corta,serio,2007,7.9
+Letters from Iwo Jima,"Action, Adventure, Drama",larga,serio,2006,7.9
+The Fall,"Adventure, Drama, Fantasy",media,serio,2006,7.9
+Life of Pi,"Adventure, Drama, Fantasy",larga,serio,2012,7.9
+Fantastic Mr. Fox,"Animation, Adventure, Comedy",corta,divertido,2009,7.9
+C.R.A.Z.Y.,"Comedy, Drama",larga,divertido,2005,7.9
+Les choristes,"Drama, Music",media,serio,2004,7.9
+Iron Man,"Action, Adventure, Sci-Fi",larga,emocionante,2008,7.9
+Shaun of the Dead,"Comedy, Horror",media,divertido,2004,7.9
+Gegen die Wand,"Drama, Romance",larga,serio,2004,7.9
+Mystic River,"Crime, Drama, Mystery",larga,serio,2003,7.9
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy",larga,neutral,2004,7.9
+Ying xiong,"Action, Adventure, History",media,emocionante,2002,7.9
+Hable con ella,"Drama, Mystery, Romance",media,serio,2002,7.9
+No Man's Land,"Comedy, Drama, War",media,divertido,2001,7.9
+Cowboy Bebop: Tengoku no tobira,"Animation, Action, Crime",media,emocionante,2001,7.9
+The Bourne Identity,"Action, Mystery, Thriller",media,emocionante,2002,7.9
+Nueve reinas,"Crime, Drama, Thriller",media,serio,2000,7.9
+Children of Men,"Adventure, Drama, Sci-Fi",media,serio,2006,7.9
+Almost Famous,"Adventure, Comedy, Drama",larga,divertido,2000,7.9
+Mulholland Dr.,"Drama, Mystery, Thriller",larga,serio,2001,7.9
+Toy Story 2,"Animation, Adventure, Comedy",media,divertido,1999,7.9
+Boogie Nights,Drama,larga,serio,1997,7.9
+Mimi wo sumaseba,"Animation, Drama, Family",media,serio,1995,7.9
+Once Were Warriors,"Crime, Drama",media,serio,1994,7.9
+True Romance,"Crime, Drama, Romance",media,serio,1993,7.9
+Trois couleurs: Bleu,"Drama, Music, Mystery",media,serio,1993,7.9
+Jûbê ninpûchô,"Animation, Action, Adventure",media,emocionante,1993,7.9
+Carlito's Way,"Crime, Drama, Thriller",larga,serio,1993,7.9
+Edward Scissorhands,"Drama, Fantasy, Romance",media,serio,1990,7.9
+My Left Foot: The Story of Christy Brown,"Biography, Drama",media,serio,1989,7.9
+Crimes and Misdemeanors,"Comedy, Drama",media,divertido,1989,7.9
+The Untouchables,"Crime, Drama, Thriller",media,serio,1987,7.9
+Hannah and Her Sisters,"Comedy, Drama",media,divertido,1986,7.9
+Brazil,"Drama, Sci-Fi",larga,serio,1985,7.9
+This Is Spinal Tap,"Comedy, Music",corta,divertido,1984,7.9
+A Christmas Story,"Comedy, Family",media,divertido,1983,7.9
+The Blues Brothers,"Action, Adventure, Comedy",larga,divertido,1980,7.9
+Manhattan,"Comedy, Drama, Romance",media,divertido,1979,7.9
+All That Jazz,"Drama, Music, Musical",larga,serio,1979,7.9
+Dawn of the Dead,"Action, Adventure, Horror",larga,emocionante,1978,7.9
+All the President's Men,"Biography, Drama, History",larga,serio,1976,7.9
+La montaña sagrada,"Adventure, Drama, Fantasy",media,serio,1973,7.9
+Amarcord,"Comedy, Drama, Family",larga,divertido,1973,7.9
+Le charme discret de la bourgeoisie,Comedy,media,divertido,1972,7.9
+"Aguirre, der Zorn Gottes","Action, Adventure, Biography",media,emocionante,1972,7.9
+Harold and Maude,"Comedy, Drama, Romance",media,divertido,1971,7.9
+Patton,"Biography, Drama, War",larga,serio,1970,7.9
+The Wild Bunch,"Action, Adventure, Western",larga,emocionante,1969,7.9
+Night of the Living Dead,"Horror, Thriller",media,oscuro,1968,7.9
+The Lion in Winter,"Biography, Drama, History",larga,serio,1968,7.9
+In the Heat of the Night,"Crime, Drama, Mystery",media,serio,1967,7.9
+Charade,"Comedy, Mystery, Romance",media,divertido,1963,7.9
+The Manchurian Candidate,"Drama, Thriller",larga,serio,1962,7.9
+Spartacus,"Adventure, Biography, Drama",larga,serio,1960,7.9
+L'avventura,"Drama, Mystery",larga,serio,1960,7.9
+Hiroshima mon amour,"Drama, Romance",media,serio,1959,7.9
+The Ten Commandments,"Adventure, Drama",larga,serio,1956,7.9
+The Searchers,"Adventure, Drama, Western",media,serio,1956,7.9
+East of Eden,Drama,media,serio,1955,7.9
+High Noon,"Drama, Thriller, Western",corta,serio,1952,7.9
+Strangers on a Train,"Crime, Film-Noir, Thriller",media,neutral,1951,7.9
+Harvey,"Comedy, Drama, Fantasy",media,divertido,1950,7.9
+Miracle on 34th Street,"Comedy, Drama, Family",media,divertido,1947,7.9
+Notorious,"Drama, Film-Noir, Romance",media,serio,1946,7.9
+The Big Sleep,"Crime, Film-Noir, Mystery",media,neutral,1946,7.9
+The Lost Weekend,"Drama, Film-Noir",media,serio,1945,7.9
+The Philadelphia Story,"Comedy, Romance",media,divertido,1940,7.9
+His Girl Friday,"Comedy, Drama, Romance",media,divertido,1940,7.9
+The Adventures of Robin Hood,"Action, Adventure, Romance",media,emocionante,1938,7.9
+A Night at the Opera,"Comedy, Music, Musical",media,divertido,1935,7.9
+King Kong,"Adventure, Horror, Sci-Fi",media,oscuro,1933,7.9
+Freaks,"Drama, Horror",corta,serio,1932,7.9
+Nosferatu,"Fantasy, Horror",media,oscuro,1922,7.9
+The Gentlemen,"Action, Comedy, Crime",media,divertido,2019,7.8
+Raazi,"Action, Drama, Thriller",larga,serio,2018,7.8
+Sound of Metal,"Drama, Music",media,serio,2019,7.8
+Forushande,Drama,larga,serio,2016,7.8
+Dunkirk,"Action, Drama, History",media,serio,2017,7.8
+Perfetti sconosciuti,"Comedy, Drama",media,divertido,2016,7.8
+Hidden Figures,"Biography, Drama, History",larga,serio,2016,7.8
+Paddington 2,"Adventure, Comedy, Family",media,divertido,2017,7.8
+Udta Punjab,"Action, Crime, Drama",larga,serio,2016,7.8
+Kubo and the Two Strings,"Animation, Action, Adventure",media,emocionante,2016,7.8
+M.S. Dhoni: The Untold Story,"Biography, Drama, Sport",larga,serio,2016,7.8
+Manchester by the Sea,Drama,larga,serio,2016,7.8
+Under sandet,"Drama, History, War",media,serio,2015,7.8
+Rogue One,"Action, Adventure, Sci-Fi",larga,emocionante,2016,7.8
+Captain America: Civil War,"Action, Adventure, Sci-Fi",larga,emocionante,2016,7.8
+The Hateful Eight,"Crime, Drama, Mystery",larga,serio,2015,7.8
+Little Women,"Drama, Romance",larga,serio,2019,7.8
+Loving Vincent,"Animation, Biography, Crime",media,inspirador,2017,7.8
+Pride,"Biography, Comedy, Drama",media,divertido,2014,7.8
+Le passé,"Drama, Mystery",larga,serio,2013,7.8
+La grande bellezza,Drama,larga,serio,2013,7.8
+The Lunchbox,"Drama, Romance",media,serio,2013,7.8
+Vicky Donor,"Comedy, Romance",larga,divertido,2012,7.8
+Big Hero 6,"Animation, Action, Adventure",media,emocionante,2014,7.8
+About Time,"Comedy, Drama, Fantasy",larga,divertido,2013,7.8
+English Vinglish,"Comedy, Drama, Family",larga,divertido,2012,7.8
+Kaze tachinu,"Animation, Biography, Drama",larga,serio,2013,7.8
+Toy Story 4,"Animation, Adventure, Comedy",media,divertido,2019,7.8
+La migliore offerta,"Crime, Drama, Mystery",larga,serio,2013,7.8
+Moonrise Kingdom,"Comedy, Drama, Romance",media,divertido,2012,7.8
+How to Train Your Dragon 2,"Animation, Action, Adventure",media,emocionante,2014,7.8
+The Big Short,"Biography, Comedy, Drama",larga,divertido,2015,7.8
+Kokuhaku,"Drama, Thriller",media,serio,2010,7.8
+Ang-ma-reul bo-at-da,"Action, Crime, Drama",larga,serio,2010,7.8
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",larga,serio,2011,7.8
+Captain Phillips,"Adventure, Biography, Crime",larga,inspirador,2013,7.8
+Ajeossi,"Action, Crime, Drama",media,serio,2010,7.8
+Straight Outta Compton,"Biography, Drama, History",larga,serio,2015,7.8
+Madeo,"Crime, Drama, Mystery",larga,serio,2009,7.8
+Chugyeokja,"Action, Crime, Thriller",larga,emocionante,2008,7.8
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",larga,neutral,2013,7.8
+Das weiße Band - Eine deutsche Kindergeschichte,"Drama, History, Mystery",larga,serio,2009,7.8
+Män som hatar kvinnor,"Crime, Drama, Mystery",larga,serio,2009,7.8
+The Trial of the Chicago 7,"Drama, History, Thriller",larga,serio,2020,7.8
+Druk,"Comedy, Drama",media,divertido,2020,7.8
+The Fighter,"Biography, Drama, Sport",media,serio,2010,7.8
+Taken,"Action, Thriller",media,emocionante,2008,7.8
+The Boy in the Striped Pyjamas,"Drama, History, War",media,serio,2008,7.8
+Once,"Drama, Music, Romance",corta,serio,2007,7.8
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy",larga,neutral,2012,7.8
+Auf der anderen Seite,Drama,larga,serio,2007,7.8
+Atonement,"Drama, Mystery, Romance",larga,serio,2007,7.8
+Drive,"Crime, Drama",media,serio,2011,7.8
+American Gangster,"Biography, Crime, Drama",larga,serio,2007,7.8
+Avatar,"Action, Adventure, Fantasy",larga,emocionante,2009,7.8
+Mr. Nobody,"Drama, Fantasy, Romance",larga,serio,2009,7.8
+Apocalypto,"Action, Adventure, Drama",larga,serio,2006,7.8
+Little Miss Sunshine,"Comedy, Drama",media,divertido,2006,7.8
+Hot Fuzz,"Action, Comedy, Mystery",larga,divertido,2007,7.8
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",larga,serio,2008,7.8
+Veer-Zaara,"Drama, Family, Musical",larga,serio,2004,7.8
+Adams æbler,"Comedy, Crime, Drama",media,divertido,2005,7.8
+Pride & Prejudice,"Drama, Romance",larga,serio,2005,7.8
+The World's Fastest Indian,"Biography, Drama, Sport",larga,serio,2005,7.8
+Tôkyô goddofâzâzu,"Animation, Adventure, Comedy",media,divertido,2003,7.8
+Serenity,"Action, Adventure, Sci-Fi",media,emocionante,2005,7.8
+Walk the Line,"Biography, Drama, Music",larga,serio,2005,7.8
+Ondskan,Drama,media,serio,2003,7.8
+The Notebook,"Drama, Romance",larga,serio,2004,7.8
+Diarios de motocicleta,"Adventure, Biography, Drama",larga,serio,2004,7.8
+Lilja 4-ever,"Crime, Drama",media,serio,2002,7.8
+Les triplettes de Belleville,"Animation, Comedy, Drama",corta,divertido,2003,7.8
+Gongdong gyeongbi guyeok JSA,"Action, Drama, Thriller",media,serio,2000,7.8
+The Count of Monte Cristo,"Action, Adventure, Drama",larga,serio,2002,7.8
+Waking Life,"Animation, Drama, Fantasy",media,serio,2001,7.8
+Remember the Titans,"Biography, Drama, Sport",media,serio,2000,7.8
+Wo hu cang long,"Action, Adventure, Fantasy",media,emocionante,2000,7.8
+Todo sobre mi madre,Drama,media,serio,1999,7.8
+Cast Away,"Adventure, Drama, Romance",larga,serio,2000,7.8
+The Boondock Saints,"Action, Crime, Thriller",media,emocionante,1999,7.8
+The Insider,"Biography, Drama, Thriller",larga,serio,1999,7.8
+October Sky,"Biography, Drama, Family",media,serio,1999,7.8
+Shrek,"Animation, Adventure, Comedy",media,divertido,2001,7.8
+Titanic,"Drama, Romance",larga,serio,1997,7.8
+Hana-bi,"Crime, Drama, Romance",media,serio,1997,7.8
+Gattaca,"Drama, Sci-Fi, Thriller",media,serio,1997,7.8
+The Game,"Action, Drama, Mystery",larga,serio,1997,7.8
+Breaking the Waves,Drama,larga,serio,1996,7.8
+Ed Wood,"Biography, Comedy, Drama",larga,divertido,1994,7.8
+What's Eating Gilbert Grape,Drama,media,serio,1993,7.8
+Tombstone,"Action, Biography, Drama",larga,serio,1993,7.8
+The Sandlot,"Comedy, Drama, Family",media,divertido,1993,7.8
+The Remains of the Day,"Drama, Romance",larga,serio,1993,7.8
+Naked,"Comedy, Drama",larga,divertido,1993,7.8
+The Fugitive,"Action, Crime, Drama",larga,serio,1993,7.8
+A Bronx Tale,"Crime, Drama, Romance",larga,serio,1993,7.8
+Batman: Mask of the Phantasm,"Animation, Action, Crime",corta,emocionante,1993,7.8
+Lat sau san taam,"Action, Crime, Thriller",larga,emocionante,1992,7.8
+Night on Earth,"Comedy, Drama",larga,divertido,1991,7.8
+La double vie de Véronique,"Drama, Fantasy, Music",media,serio,1991,7.8
+Boyz n the Hood,"Crime, Drama",media,serio,1991,7.8
+Misery,"Drama, Thriller",media,serio,1990,7.8
+Awakenings,"Biography, Drama",larga,serio,1990,7.8
+Majo no takkyûbin,"Animation, Adventure, Drama",media,serio,1989,7.8
+Glory,"Biography, Drama, History",larga,serio,1989,7.8
+Dip huet seung hung,"Action, Crime, Drama",media,serio,1989,7.8
+Back to the Future Part II,"Adventure, Comedy, Sci-Fi",media,divertido,1989,7.8
+Mississippi Burning,"Crime, Drama, History",larga,serio,1988,7.8
+Predator,"Action, Adventure, Sci-Fi",media,emocionante,1987,7.8
+Evil Dead II,"Action, Comedy, Fantasy",corta,divertido,1987,7.8
+Ferris Bueller's Day Off,Comedy,media,divertido,1986,7.8
+Down by Law,"Comedy, Crime, Drama",media,divertido,1986,7.8
+The Goonies,"Adventure, Comedy, Family",media,divertido,1985,7.8
+The Color Purple,Drama,larga,serio,1985,7.8
+The Breakfast Club,"Comedy, Drama",media,divertido,1985,7.8
+The Killing Fields,"Biography, Drama, History",larga,serio,1984,7.8
+Ghostbusters,"Action, Comedy, Fantasy",media,divertido,1984,7.8
+The Right Stuff,"Adventure, Biography, Drama",larga,serio,1983,7.8
+The King of Comedy,"Comedy, Crime, Drama",media,divertido,1982,7.8
+E.T. the Extra-Terrestrial,"Family, Sci-Fi",media,neutral,1982,7.8
+Kramer vs. Kramer,Drama,media,serio,1979,7.8
+Days of Heaven,"Drama, Romance",media,serio,1978,7.8
+The Outlaw Josey Wales,Western,larga,neutral,1976,7.8
+The Man Who Would Be King,"Adventure, History, War",larga,neutral,1975,7.8
+The Conversation,"Drama, Mystery, Thriller",media,serio,1974,7.8
+La planète sauvage,"Animation, Sci-Fi",corta,neutral,1973,7.8
+The Day of the Jackal,"Crime, Drama, Thriller",larga,serio,1973,7.8
+Badlands,"Action, Crime, Drama",media,serio,1973,7.8
+Cabaret,"Drama, Music, Musical",larga,serio,1972,7.8
+Willy Wonka & the Chocolate Factory,"Family, Fantasy, Musical",media,neutral,1971,7.8
+Midnight Cowboy,Drama,media,serio,1969,7.8
+Wait Until Dark,Thriller,media,neutral,1967,7.8
+Guess Who's Coming to Dinner,"Comedy, Drama",media,divertido,1967,7.8
+Bonnie and Clyde,"Action, Biography, Crime",media,emocionante,1967,7.8
+My Fair Lady,"Drama, Family, Musical",larga,serio,1964,7.8
+Mary Poppins,"Comedy, Family, Fantasy",larga,divertido,1964,7.8
+The Longest Day,"Action, Drama, History",larga,serio,1962,7.8
+Jules et Jim,"Drama, Romance",media,serio,1962,7.8
+The Innocents,Horror,media,oscuro,1961,7.8
+À bout de souffle,"Crime, Drama",media,serio,1960,7.8
+Red River,"Action, Adventure, Drama",larga,serio,1948,7.8
+Key Largo,"Action, Crime, Drama",media,serio,1948,7.8
+To Have and Have Not,"Adventure, Comedy, Film-Noir",media,divertido,1944,7.8
+Shadow of a Doubt,"Film-Noir, Thriller",media,neutral,1943,7.8
+Stagecoach,"Adventure, Drama, Western",media,serio,1939,7.8
+The Lady Vanishes,"Mystery, Thriller",media,neutral,1938,7.8
+Bringing Up Baby,"Comedy, Family, Romance",media,divertido,1938,7.8
+Bride of Frankenstein,"Drama, Horror, Sci-Fi",corta,serio,1935,7.8
+Duck Soup,"Comedy, Musical, War",corta,divertido,1933,7.8
+Scarface: The Shame of the Nation,"Action, Crime, Drama",media,serio,1932,7.8
+Frankenstein,"Drama, Horror, Sci-Fi",corta,serio,1931,7.8
+Roma,Drama,larga,serio,2018,7.7
+God's Own Country,"Drama, Romance",media,serio,2017,7.7
+Deadpool 2,"Action, Adventure, Comedy",media,divertido,2018,7.7
+Wind River,"Crime, Drama, Mystery",media,serio,2017,7.7
+Get Out,"Horror, Mystery, Thriller",media,oscuro,2017,7.7
+Mission: Impossible - Fallout,"Action, Adventure, Thriller",larga,emocionante,2018,7.7
+En man som heter Ove,"Comedy, Drama, Romance",media,divertido,2015,7.7
+What We Do in the Shadows,"Comedy, Horror",corta,divertido,2014,7.7
+Omoide no Mânî,"Animation, Drama, Family",media,serio,2014,7.7
+The Theory of Everything,"Biography, Drama, Romance",larga,serio,2014,7.7
+Kingsman: The Secret Service,"Action, Adventure, Comedy",larga,divertido,2014,7.7
+The Fault in Our Stars,"Drama, Romance",larga,serio,2014,7.7
+Me and Earl and the Dying Girl,"Comedy, Drama",media,divertido,2015,7.7
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",media,divertido,2014,7.7
+La vie d'Adèle,"Drama, Romance",larga,serio,2013,7.7
+Kai po che!,"Drama, Sport",larga,serio,2013,7.7
+The Broken Circle Breakdown,"Drama, Music, Romance",media,serio,2012,7.7
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",larga,emocionante,2014,7.7
+Rockstar,"Drama, Music, Musical",larga,serio,2011,7.7
+Nebraska,"Adventure, Comedy, Drama",media,divertido,2013,7.7
+Wreck-It Ralph,"Animation, Adventure, Comedy",media,divertido,2012,7.7
+Le Petit Prince,"Animation, Adventure, Drama",media,serio,2015,7.7
+Detachment,Drama,media,serio,2011,7.7
+Midnight in Paris,"Comedy, Fantasy, Romance",media,divertido,2011,7.7
+The Lego Movie,"Animation, Action, Adventure",media,emocionante,2014,7.7
+Gravity,"Drama, Sci-Fi, Thriller",media,serio,2013,7.7
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi",larga,emocionante,2013,7.7
+Beasts of No Nation,"Drama, War",larga,serio,2015,7.7
+The Social Network,"Biography, Drama",media,serio,2010,7.7
+X: First Class,"Action, Adventure, Sci-Fi",larga,emocionante,2011,7.7
+The Hangover,Comedy,media,divertido,2009,7.7
+Skyfall,"Action, Adventure, Thriller",larga,emocionante,2012,7.7
+Silver Linings Playbook,"Comedy, Drama, Romance",larga,divertido,2012,7.7
+Argo,"Biography, Drama, Thriller",media,serio,2012,7.7
+(500) Days of Summer,"Comedy, Drama, Romance",media,divertido,2009,7.7
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy",larga,neutral,2010,7.7
+Gake no ue no Ponyo,"Animation, Adventure, Comedy",media,divertido,2008,7.7
+Frost/Nixon,"Biography, Drama, History",larga,serio,2008,7.7
+Papurika,"Animation, Drama, Fantasy",media,serio,2006,7.7
+Changeling,"Biography, Crime, Drama",larga,serio,2008,7.7
+Flipped,"Comedy, Drama, Romance",media,divertido,2010,7.7
+Toki o kakeru shôjo,"Animation, Adventure, Comedy",media,divertido,2006,7.7
+Death Note: Desu nôto,"Crime, Drama, Fantasy",larga,serio,2006,7.7
+This Is England,"Crime, Drama",media,serio,2006,7.7
+Ex Machina,"Drama, Sci-Fi, Thriller",media,serio,2014,7.7
+Efter brylluppet,Drama,media,serio,2006,7.7
+The Last King of Scotland,"Biography, Drama, History",larga,serio,2006,7.7
+Zodiac,"Crime, Drama, Mystery",larga,serio,2007,7.7
+Lucky Number Slevin,"Action, Crime, Drama",media,serio,2006,7.7
+Joyeux Noël,"Drama, History, Music",media,serio,2005,7.7
+Control,"Biography, Drama, Music",larga,serio,2007,7.7
+Tangled,"Animation, Adventure, Comedy",media,divertido,2010,7.7
+Zwartboek,"Drama, Thriller, War",larga,serio,2006,7.7
+Brokeback Mountain,"Drama, Romance",larga,serio,2005,7.7
+3:10 to Yuma,"Action, Crime, Drama",larga,serio,2007,7.7
+Crash,"Crime, Drama, Thriller",media,serio,2004,7.7
+Kung fu,"Action, Comedy, Fantasy",media,divertido,2004,7.7
+The Bourne Supremacy,"Action, Mystery, Thriller",media,emocionante,2004,7.7
+The Machinist,"Drama, Thriller",media,serio,2004,7.7
+Ray,"Biography, Drama, Music",larga,serio,2004,7.7
+Lost in Translation,"Comedy, Drama",media,divertido,2003,7.7
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy",larga,neutral,2005,7.7
+Man on Fire,"Action, Crime, Drama",larga,serio,2004,7.7
+Coraline,"Animation, Drama, Family",media,serio,2009,7.7
+The Last Samurai,"Action, Drama",larga,serio,2003,7.7
+The Magdalene Sisters,Drama,media,serio,2002,7.7
+Good Bye Lenin!,"Comedy, Drama, Romance",larga,divertido,2003,7.7
+In America,Drama,media,serio,2002,7.7
+I Am Sam,Drama,larga,serio,2001,7.7
+Adaptation.,"Comedy, Drama",media,divertido,2002,7.7
+Black Hawk Down,"Drama, History, War",larga,serio,2001,7.7
+Road to Perdition,"Crime, Drama, Thriller",media,serio,2002,7.7
+Das Experiment,"Drama, Thriller",media,serio,2001,7.7
+Billy Elliot,"Drama, Music",media,serio,2000,7.7
+Hedwig and the Angry Inch,"Comedy, Drama, Music",media,divertido,2001,7.7
+Ocean's Eleven,"Crime, Thriller",media,neutral,2001,7.7
+Vampire Hunter D: Bloodlust,"Animation, Action, Fantasy",media,emocionante,2000,7.7
+"O Brother, Where Art Thou?","Adventure, Comedy, Crime",media,divertido,2000,7.7
+Interstate 60: Episodes of the Road,"Adventure, Comedy, Drama",media,divertido,2002,7.7
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy",corta,divertido,1999,7.7
+Office Space,Comedy,corta,divertido,1999,7.7
+Happiness,"Comedy, Drama",larga,divertido,1998,7.7
+Training Day,"Crime, Drama, Thriller",larga,serio,2001,7.7
+Rushmore,"Comedy, Drama, Romance",media,divertido,1998,7.7
+Abre los ojos,"Drama, Mystery, Sci-Fi",media,serio,1997,7.7
+Being John Malkovich,"Comedy, Drama, Fantasy",media,divertido,1999,7.7
+As Good as It Gets,"Comedy, Drama, Romance",larga,divertido,1997,7.7
+The Fifth Element,"Action, Adventure, Sci-Fi",larga,emocionante,1997,7.7
+Le dîner de cons,Comedy,corta,divertido,1998,7.7
+Donnie Brasco,"Biography, Crime, Drama",larga,serio,1997,7.7
+Shine,"Biography, Drama, Music",media,serio,1996,7.7
+Primal Fear,"Crime, Drama, Mystery",larga,serio,1996,7.7
+Hamlet,Drama,larga,serio,1996,7.7
+A Little Princess,"Drama, Family, Fantasy",media,serio,1995,7.7
+Do lok tin si,"Comedy, Crime, Drama",media,divertido,1995,7.7
+Il postino,"Biography, Comedy, Drama",media,divertido,1994,7.7
+Clerks,Comedy,media,divertido,1994,7.7
+Short Cuts,"Comedy, Drama",larga,divertido,1993,7.7
+Philadelphia,Drama,larga,serio,1993,7.7
+The Muppet Christmas Carol,"Comedy, Drama, Family",corta,divertido,1992,7.7
+Malcolm X,"Biography, Drama, History",larga,serio,1992,7.7
+The Last of the Mohicans,"Action, Adventure, Drama",media,serio,1992,7.7
+Kurenai no buta,"Animation, Adventure, Comedy",media,divertido,1992,7.7
+Glengarry Glen Ross,"Crime, Drama, Mystery",media,serio,1992,7.7
+A Few Good Men,"Drama, Thriller",larga,serio,1992,7.7
+Fried Green Tomatoes,Drama,larga,serio,1991,7.7
+Barton Fink,"Comedy, Drama, Thriller",media,divertido,1991,7.7
+Miller's Crossing,"Crime, Drama, Thriller",media,serio,1990,7.7
+Who Framed Roger Rabbit,"Animation, Adventure, Comedy",media,divertido,1988,7.7
+Spoorloos,"Mystery, Thriller",media,neutral,1988,7.7
+Withnail & I,"Comedy, Drama",media,divertido,1987,7.7
+The Last Emperor,"Biography, Drama, History",larga,serio,1987,7.7
+Empire of the Sun,"Action, Drama, History",larga,serio,1987,7.7
+Der Name der Rose,"Crime, Drama, Mystery",larga,serio,1986,7.7
+Blue Velvet,"Drama, Mystery, Thriller",media,serio,1986,7.7
+The Purple Rose of Cairo,"Comedy, Fantasy, Romance",corta,divertido,1985,7.7
+After Hours,"Comedy, Crime, Drama",media,divertido,1985,7.7
+Zelig,Comedy,corta,divertido,1983,7.7
+The Verdict,Drama,larga,serio,1982,7.7
+Star Trek II: The Wrath of Khan,"Action, Adventure, Sci-Fi",media,emocionante,1982,7.7
+First Blood,"Action, Adventure",media,emocionante,1982,7.7
+Ordinary People,Drama,larga,serio,1980,7.7
+Airplane!,Comedy,corta,divertido,1980,7.7
+Rupan sansei: Kariosutoro no shiro,"Animation, Adventure, Family",media,neutral,1979,7.7
+Halloween,"Horror, Thriller",media,oscuro,1978,7.7
+Le locataire,"Drama, Thriller",larga,serio,1976,7.7
+Love and Death,"Comedy, War",corta,divertido,1975,7.7
+The Taking of Pelham One Two Three,"Action, Crime, Thriller",media,emocionante,1974,7.7
+Blazing Saddles,"Comedy, Western",media,divertido,1974,7.7
+Serpico,"Biography, Crime, Drama",larga,serio,1973,7.7
+Enter the Dragon,"Action, Crime, Drama",media,serio,1973,7.7
+Deliverance,"Adventure, Drama, Thriller",media,serio,1972,7.7
+The French Connection,"Action, Crime, Drama",media,serio,1971,7.7
+Dirty Harry,"Action, Crime, Thriller",media,emocionante,1971,7.7
+Where Eagles Dare,"Action, Adventure, War",larga,emocionante,1968,7.7
+The Odd Couple,Comedy,media,divertido,1968,7.7
+The Dirty Dozen,"Action, Adventure, War",larga,emocionante,1967,7.7
+Belle de jour,"Drama, Romance",media,serio,1967,7.7
+A Man for All Seasons,"Biography, Drama, History",media,serio,1966,7.7
+Repulsion,"Drama, Horror, Thriller",media,serio,1965,7.7
+Zulu,"Drama, History, War",larga,serio,1964,7.7
+Goldfinger,"Action, Adventure, Thriller",media,emocionante,1964,7.7
+The Birds,"Drama, Horror, Mystery",media,serio,1963,7.7
+Cape Fear,"Drama, Thriller",media,serio,1962,7.7
+Peeping Tom,"Drama, Horror, Thriller",media,serio,1960,7.7
+The Magnificent Seven,"Action, Adventure, Western",larga,emocionante,1960,7.7
+Les yeux sans visage,"Drama, Horror",media,serio,1960,7.7
+Invasion of the Body Snatchers,"Drama, Horror, Sci-Fi",corta,serio,1956,7.7
+Rebel Without a Cause,Drama,media,serio,1955,7.7
+The Ladykillers,"Comedy, Crime",media,divertido,1955,7.7
+Sabrina,"Comedy, Drama, Romance",media,divertido,1954,7.7
+The Quiet Man,"Comedy, Drama, Romance",larga,divertido,1952,7.7
+The Day the Earth Stood Still,"Drama, Sci-Fi",media,serio,1951,7.7
+The African Queen,"Adventure, Drama, Romance",media,serio,1951,7.7
+Gilda,"Drama, Film-Noir, Romance",media,serio,1946,7.7
+Fantasia,"Animation, Family, Fantasy",larga,neutral,1940,7.7
+The Invisible Man,"Horror, Sci-Fi",corta,oscuro,1933,7.7
+Dark Waters,"Biography, Drama, History",larga,serio,2019,7.6
+Searching,"Drama, Mystery, Thriller",media,serio,2018,7.6
+Once Upon a Time... in Hollywood,"Comedy, Drama",larga,divertido,2019,7.6
+Nelyubov,Drama,larga,serio,2017,7.6
+The Florida Project,Drama,media,serio,2017,7.6
+Just Mercy,"Biography, Crime, Drama",larga,serio,2019,7.6
+Gifted,Drama,media,serio,2017,7.6
+The Peanut Butter Falcon,"Adventure, Comedy, Drama",media,divertido,2019,7.6
+Victoria,"Crime, Drama, Romance",larga,serio,2015,7.6
+Mustang,Drama,media,serio,2015,7.6
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",larga,divertido,2017,7.6
+Baby Driver,"Action, Crime, Drama",media,serio,2017,7.6
+Only the Brave,"Action, Biography, Drama",larga,serio,2017,7.6
+Bridge of Spies,"Drama, History, Thriller",larga,serio,2015,7.6
+Incredibles 2,"Animation, Action, Adventure",media,emocionante,2018,7.6
+Moana,"Animation, Adventure, Comedy",media,divertido,2016,7.6
+Sicario,"Action, Crime, Drama",larga,serio,2015,7.6
+Creed,"Drama, Sport",larga,serio,2015,7.6
+Leviafan,"Crime, Drama",larga,serio,2014,7.6
+Hell or High Water,"Action, Crime, Drama",media,serio,2016,7.6
+Philomena,"Biography, Comedy, Drama",media,divertido,2013,7.6
+Dawn of the Planet of the Apes,"Action, Adventure, Drama",larga,serio,2014,7.6
+El cuerpo,"Mystery, Thriller",media,neutral,2012,7.6
+Serbuan maut,"Action, Thriller",media,emocionante,2011,7.6
+End of Watch,"Action, Crime, Drama",media,serio,2012,7.6
+Kari-gurashi no Arietti,"Animation, Adventure, Family",media,neutral,2010,7.6
+A Star Is Born,"Drama, Music, Romance",larga,serio,2018,7.6
+True Grit,"Drama, Western",media,serio,2010,7.6
+Hævnen,"Drama, Romance",media,serio,2010,7.6
+Despicable Me,"Animation, Comedy, Crime",media,divertido,2010,7.6
+50/50,"Comedy, Drama, Romance",media,divertido,2011,7.6
+Kick-Ass,"Action, Comedy, Crime",media,divertido,2010,7.6
+Celda 211,"Action, Adventure, Crime",media,emocionante,2009,7.6
+Moneyball,"Biography, Drama, Sport",larga,serio,2011,7.6
+La piel que habito,"Drama, Horror, Thriller",media,serio,2011,7.6
+Zombieland,"Adventure, Comedy, Fantasy",corta,divertido,2009,7.6
+Die Welle,"Drama, Thriller",media,serio,2008,7.6
+Sherlock Holmes,"Action, Adventure, Mystery",larga,emocionante,2009,7.6
+The Blind Side,"Biography, Drama, Sport",larga,serio,2009,7.6
+The Visitor,Drama,media,serio,2007,7.6
+Seven Pounds,Drama,larga,serio,2008,7.6
+Eastern Promises,"Action, Crime, Drama",media,serio,2007,7.6
+Stardust,"Adventure, Family, Fantasy",larga,neutral,2007,7.6
+The Secret of Kells,"Animation, Adventure, Family",corta,neutral,2009,7.6
+Inside Man,"Crime, Drama, Mystery",larga,serio,2006,7.6
+Gone Baby Gone,"Crime, Drama, Mystery",media,serio,2007,7.6
+La Vie En Rose,"Biography, Drama, Music",larga,serio,2007,7.6
+Huo Yuan Jia,"Action, Biography, Drama",media,serio,2006,7.6
+The Illusionist,"Drama, Fantasy, Mystery",media,serio,2006,7.6
+Dead Man's Shoes,"Crime, Drama, Thriller",media,serio,2004,7.6
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family",larga,emocionante,2009,7.6
+300,"Action, Drama",media,serio,2006,7.6
+Match Point,"Drama, Romance, Thriller",larga,serio,2005,7.6
+Watchmen,"Action, Drama, Mystery",larga,serio,2009,7.6
+Lord of War,"Action, Crime, Drama",larga,serio,2005,7.6
+Saw,"Horror, Mystery, Thriller",media,oscuro,2004,7.6
+"Synecdoche, New York",Drama,larga,serio,2008,7.6
+Mysterious Skin,Drama,media,serio,2004,7.6
+Jeux d'enfants,"Comedy, Drama, Romance",media,divertido,2003,7.6
+Un long dimanche de fiançailles,"Drama, Mystery, Romance",larga,serio,2004,7.6
+The Station Agent,"Comedy, Drama",corta,divertido,2003,7.6
+21 Grams,"Crime, Drama, Thriller",larga,serio,2003,7.6
+Boksuneun naui geot,"Crime, Drama, Thriller",larga,serio,2002,7.6
+Finding Neverland,"Biography, Drama, Family",media,serio,2004,7.6
+25th Hour,Drama,larga,serio,2002,7.6
+The Butterfly Effect,"Drama, Sci-Fi, Thriller",media,serio,2004,7.6
+28 Days Later...,"Drama, Horror, Sci-Fi",media,serio,2002,7.6
+Batoru rowaiaru,"Action, Adventure, Drama",media,serio,2000,7.6
+The Royal Tenenbaums,"Comedy, Drama",media,divertido,2001,7.6
+Y tu mamá también,Drama,media,serio,2001,7.6
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy",larga,neutral,2001,7.6
+The Others,"Horror, Mystery, Thriller",media,oscuro,2001,7.6
+Blow,"Biography, Crime, Drama",larga,serio,2001,7.6
+Enemy at the Gates,"Drama, History, War",larga,serio,2001,7.6
+Minority Report,"Action, Crime, Mystery",larga,emocionante,2002,7.6
+The Hurricane,"Biography, Drama, Sport",larga,serio,1999,7.6
+American Psycho,"Comedy, Crime, Drama",media,divertido,2000,7.6
+Lola rennt,"Crime, Drama, Thriller",corta,serio,1998,7.6
+The Thin Red Line,"Drama, War",larga,serio,1998,7.6
+Mulan,"Animation, Adventure, Family",corta,neutral,1998,7.6
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama",media,divertido,1998,7.6
+Funny Games,"Crime, Drama, Thriller",media,serio,1997,7.6
+Dark City,"Mystery, Sci-Fi, Thriller",media,neutral,1998,7.6
+Sleepers,"Crime, Drama, Thriller",larga,serio,1996,7.6
+Lost Highway,"Mystery, Thriller",larga,neutral,1997,7.6
+Sense and Sensibility,"Drama, Romance",larga,serio,1995,7.6
+Die Hard: With a Vengeance,"Action, Adventure, Thriller",larga,emocionante,1995,7.6
+Dead Man,"Adventure, Drama, Fantasy",larga,serio,1995,7.6
+The Bridges of Madison County,"Drama, Romance",larga,serio,1995,7.6
+Apollo 13,"Adventure, Drama, History",larga,serio,PG,7.6
+Trois couleurs: Blanc,"Comedy, Drama, Romance",media,divertido,1994,7.6
+Falling Down,"Action, Crime, Drama",media,serio,1993,7.6
+Dazed and Confused,Comedy,media,divertido,1993,7.6
+My Cousin Vinny,"Comedy, Crime",media,divertido,1992,7.6
+Omohide poro poro,"Animation, Drama, Romance",media,serio,1991,7.6
+Delicatessen,"Comedy, Crime",media,divertido,1991,7.6
+Home Alone,"Comedy, Family",media,divertido,1990,7.6
+The Godfather: Part III,"Crime, Drama",larga,serio,1990,7.6
+When Harry Met Sally...,"Comedy, Drama, Romance",media,divertido,1989,7.6
+The Little Mermaid,"Animation, Family, Fantasy",corta,neutral,1989,7.6
+The Naked Gun: From the Files of Police Squad!,"Comedy, Crime",corta,divertido,1988,7.6
+"Planes, Trains & Automobiles","Comedy, Drama",media,divertido,1987,7.6
+Lethal Weapon,"Action, Crime, Thriller",media,emocionante,1987,7.6
+Blood Simple,"Crime, Drama, Thriller",media,serio,1984,7.6
+On Golden Pond,Drama,media,serio,1981,7.6
+Mad Max 2,"Action, Adventure, Sci-Fi",media,emocionante,1981,7.6
+The Warriors,"Action, Crime, Thriller",media,emocionante,1979,7.6
+The Muppet Movie,"Adventure, Comedy, Family",media,divertido,1979,7.6
+Escape from Alcatraz,"Action, Biography, Crime",media,emocionante,1979,7.6
+Watership Down,"Animation, Adventure, Drama",media,serio,1978,7.6
+Midnight Express,"Biography, Crime, Drama",larga,serio,1978,7.6
+Close Encounters of the Third Kind,"Drama, Sci-Fi",larga,serio,1977,7.6
+The Long Goodbye,"Comedy, Crime, Drama",media,divertido,1973,7.6
+Giù la testa,"Drama, War, Western",larga,serio,1971,7.6
+Kelly's Heroes,"Adventure, Comedy, War",larga,divertido,1970,7.6
+The Jungle Book,"Animation, Adventure, Family",corta,neutral,1967,7.6
+Blowup,"Drama, Mystery, Thriller",media,serio,1966,7.6
+A Hard Day's Night,"Comedy, Music, Musical",corta,divertido,1964,7.6
+Breakfast at Tiffany's,"Comedy, Drama, Romance",media,divertido,1961,7.6
+Giant,"Drama, Western",larga,serio,1956,7.6
+From Here to Eternity,"Drama, Romance, War",media,serio,1953,7.6
+Lifeboat,"Drama, War",media,serio,1944,7.6
+The 39 Steps,"Crime, Mystery, Thriller",corta,neutral,1935,7.6

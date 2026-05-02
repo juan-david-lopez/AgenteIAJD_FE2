@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<title>Agente Recomendador</title>
+
+<style>
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #343541;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* CONTENEDOR */
+.chat-container {
+    width: 420px;
+    height: 650px;
+    background: #444654;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    overflow: hidden;
+}
+
+/* HEADER */
+.header {
+    background: #202123;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* CHAT */
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* MENSAJE BASE */
+.message {
+    max-width: 75%;
+    padding: 12px 15px;
+    margin: 8px 0;
+    border-radius: 12px;
+    line-height: 1.4;
+    word-wrap: break-word;
+}
+
+/* USUARIO */
+.user-message {
+    background: #19c37d;
+    color: white;
+    align-self: flex-end;
+    border-bottom-right-radius: 3px;
+}
+
+/* BOT */
+.bot-message {
+    background: #40414f;
+    color: white;
+    align-self: flex-start;
+    border-bottom-left-radius: 3px;
+}
+
+/* INPUT */
+.input-area {
+    display: flex;
+    padding: 10px;
+    background: #202123;
+}
+
+input {
+    flex: 1;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background: #40414f;
+    color: white;
+}
+
+button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    background: #19c37d;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #17a36a;
+}
+</style>
+</head>
+
+<body>
+
+<div class="chat-container">
+    <div class="header">🎬 Agente Recomendador de peliculas</div>
+
+    <div class="chat-box" id="chat"></div>
+
+    <div class="input-area">
+        <input type="text" id="input" placeholder="Escribe tu preferencia...">
+        <button onclick="sendMessage()">Enviar</button>
+    </div>
+</div>
+
+<script>
+let memory = [];
+
+async function sendMessage() {
+    let input = document.getElementById("input");
+    let chat = document.getElementById("chat");
+
+    let mensaje = input.value.trim();
+    if (mensaje === "") return;
+
+    // Mostrar mensaje usuario
+    let userMsg = document.createElement("div");
+    userMsg.className = "message user-message";
+    userMsg.textContent = mensaje;
+    chat.appendChild(userMsg);
+
+    input.value = "";
+
+    // Mensaje temporal del bot
+    let botMsg = document.createElement("div");
+    botMsg.className = "message bot-message";
+    botMsg.textContent = "Pensando...";
+    chat.appendChild(botMsg);
+
+    chat.scrollTop = chat.scrollHeight;
+
+    try {
+        // 🔥 CONEXIÓN CON FLASK enviando el historial (memory)
+        const response = await fetch("http://127.0.0.1:5000/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ 
+                mensaje: mensaje,
+                historial: memory 
+            })
+        });
+
+        const data = await response.json();
+
+        // Reemplazar texto del bot
+        botMsg.innerHTML = marked.parse(data.respuesta);
+        
+        // Guardar en memoria local
+        memory.push({sender: "usuario", texto: mensaje});
+        memory.push({sender: "bot", texto: data.respuesta});
+
+    } catch (error) {
+        botMsg.textContent = "Error al conectar con el servidor 😢";
+        console.error(error);
+    }
+
+    chat.scrollTop = chat.scrollHeight;
+}
+</script>
+
+</body>
+</html>
