@@ -19,9 +19,19 @@ client = OpenAI(
 
 # Cargar dataset
 # Usamos una ruta relativa que funcione tanto localmente como en Vercel
-base_path = os.path.dirname(__file__)
-csv_path = os.path.join(base_path, "..", "datasetLimpio", "peliculas_total_limpio.csv")
-df = pd.read_csv(csv_path)
+try:
+    base_path = os.path.dirname(__file__)
+    csv_path = os.path.join(base_path, "..", "datasetLimpio", "peliculas_total_limpio.csv")
+    if not os.path.exists(csv_path):
+        # Intento alternativo por si la estructura en Vercel cambia ligeramente
+        csv_path = os.path.join(os.getcwd(), "datasetLimpio", "peliculas_total_limpio.csv")
+    
+    print(f"Intentando cargar CSV desde: {csv_path}")
+    df = pd.read_csv(csv_path)
+except Exception as e:
+    print(f"Error crítico cargando el dataset: {e}")
+    # Crear un dataframe vacío para evitar que la app explote totalmente
+    df = pd.DataFrame(columns=["titulo", "anio", "calificacion", "genero", "duracion", "tono"])
 
 import json
 
