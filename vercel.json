@@ -8,6 +8,10 @@
   ],
   "routes": [
     {
+      "src": "/chat",
+      "dest": "backend/app.py"
+    },
+    {
       "src": "/(.*)",
       "dest": "backend/app.py"
     }

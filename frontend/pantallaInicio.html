@@ -146,8 +146,8 @@ async function sendMessage() {
     chat.scrollTop = chat.scrollHeight;
 
     try {
-        // 🔥 CONEXIÓN CON FLASK enviando el historial (memory)
-        const response = await fetch("http://127.0.0.1:5000/chat", {
+        // 🔥 CONEXIÓN DINÁMICA (Funciona en local y en Vercel)
+        const response = await fetch("/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
