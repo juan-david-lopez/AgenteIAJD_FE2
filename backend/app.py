@@ -18,7 +18,10 @@ client = OpenAI(
 )
 
 # Cargar dataset
-df = pd.read_csv("./datasetLimpio/peliculas_total_limpio.csv")
+# Usamos una ruta relativa que funcione tanto localmente como en Vercel
+base_path = os.path.dirname(__file__)
+csv_path = os.path.join(base_path, "..", "datasetLimpio", "peliculas_total_limpio.csv")
+df = pd.read_csv(csv_path)
 
 import json
 
